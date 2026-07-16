@@ -18,3 +18,4 @@ const nu = 10 ;
 let result = num > nu;
 
 console.log(result);
+
